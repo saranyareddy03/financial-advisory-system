@@ -66,16 +66,16 @@ financial_advisory_system/
 
 ### Home Page
 
-![Home Page](screenshots/home-page.png)
+![Home Page](<img width="1919" height="805" alt="home-page" src="https://github.com/user-attachments/assets/e64dd439-7c37-470a-b6f5-32980c9f980a" />)
 
 
 ### Analysis Results
 
-![Analysis Results](screenshots/analysis-results.png)
+![Analysis Results](<img width="1536" height="855" alt="analysis-results" src="https://github.com/user-attachments/assets/6f662936-a047-42d1-b29d-9aed32263eed" />)
 
 ### Dashboard View
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](<img width="1475" height="810" alt="dashboard" src="https://github.com/user-attachments/assets/662932f7-bfb2-431a-98ab-69ef31172da9" />)
 
 ---
 
