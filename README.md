@@ -1,8 +1,8 @@
-# Financial Advisory System
+# Real-Time Financial Advisory System
 
 ## Overview
 
-The Financial Advisory System is a Python-based application developed to assist users in analyzing stock market data and obtaining financial insights through natural language queries. The system integrates financial analytics, sentiment analysis, risk assessment, and technical indicators to provide meaningful information for investment-related decision making.
+The Real-Time Financial Advisory System is a Python-based application developed to assist users in analyzing stock market data and obtaining financial insights through natural language queries. The system integrates financial analytics, sentiment analysis, risk assessment, and technical indicators to provide meaningful information for investment-related decision making.
 
 The project uses LangGraph for workflow management, PostgreSQL for data storage, and Streamlit for the user interface.
 
@@ -145,8 +145,35 @@ python src/main.py
 
 ---
 
-## Author
+---
 
-**Nallimilli Saranya Reddy**
+## Research Publication
 
-Final Year Project
+This project has been published as a research paper in the International Journal of Engineering Research and Science & Technology (IJERST).
+
+### Paper Details
+
+**Title:**  
+Real-Time Financial Advisory System: A GenAI-Driven Conversational and Explainable Framework
+
+**Authors:**  
+- Nallimilli Saranya Reddy
+- K. Siva Ganesh
+- K. Sravani
+- K. Jaya Ram
+- K. Komali
+
+**Journal:** International Journal of Engineering Research and Science & Technology (IJERST)
+
+**Volume:** 22  
+**Issue:** 1(2)  
+**Year:** 2026  
+**Pages:** 202–208
+
+**DOI:**  
+https://doi.org/10.62643/ijerst.2026.v22.n1(2).pp202-208
+
+### Publication Summary
+
+The research presents a GenAI-driven financial advisory platform that combines natural language processing, sentiment analysis, portfolio optimization, and explainable AI techniques to assist investors in making informed financial decisions. The system integrates LangGraph-based workflow orchestration, FinBERT sentiment analysis, PostgreSQL-based financial data management, and a Streamlit interface for conversational financial analytics. The proposed framework processes large-scale financial datasets and provides explainable investment insights, risk assessment, and portfolio recommendations through natural language interactions. :contentReference[oaicite:0]{index=0}
+
