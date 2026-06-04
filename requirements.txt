@@ -1,0 +1,44 @@
+# ===============================
+# REAL-TIME FINANCIAL ADVISORY SYSTEM
+# Essential Python Dependencies
+# ===============================
+
+# Core Data Science
+pandas
+numpy
+scipy
+cvxpy
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Environment Configuration
+python-dotenv
+
+# LangGraph & LLM
+langgraph
+langchain
+langchain-core
+langchain-google-genai
+
+# Google Gemini API
+google-generativeai
+
+# Web Framework
+streamlit
+
+# Data Validation
+pydantic
+
+# Visualization
+plotly
+
+# HTTP requests (Groq API client)
+requests
+
+# Utilities
+python-dateutil
+# FinBERT Sentiment Analysis
+transformers
+torch

@@ -1,0 +1,81 @@
+{
+  "total_records": 15687,
+  "unique_symbols": 21,
+  "date_range": {
+    "start": "2022-01-03",
+    "end": "2024-12-20",
+    "days": 1082
+  },
+  "missing_values": {
+    "date": 0,
+    "symbol": 0,
+    "adjusted_close": 0,
+    "close": 0,
+    "high": 0,
+    "low": 0,
+    "open": 0,
+    "volume": 0,
+    "daily_return": 21,
+    "price_change": 21,
+    "intraday_range": 0,
+    "intraday_range_pct": 0,
+    "typical_price": 0,
+    "day_of_week": 0,
+    "is_monday": 0,
+    "is_friday": 0
+  },
+  "data_coverage": {
+    "records_per_symbol": {
+      "count": 21.0,
+      "mean": 747.0,
+      "std": 0.0,
+      "min": 747.0,
+      "25%": 747.0,
+      "50%": 747.0,
+      "75%": 747.0,
+      "max": 747.0
+    },
+    "symbols_with_full_data": 21,
+    "symbols_with_partial_data": 0
+  },
+  "price_statistics": {
+    "open": {
+      "min": 10.970999717712402,
+      "max": 933.3499755859376,
+      "mean": 188.9021907174018,
+      "std": 119.33159821885616
+    },
+    "high": {
+      "min": 11.734999656677246,
+      "max": 941.75,
+      "mean": 191.1200607909203,
+      "std": 120.73734644484793
+    },
+    "low": {
+      "min": 10.812999725341797,
+      "max": 923.0800170898438,
+      "mean": 186.66113220127787,
+      "std": 117.9011870322383
+    },
+    "close": {
+      "min": 11.22700023651123,
+      "max": 936.5599975585938,
+      "mean": 188.9385181220181,
+      "std": 119.35996372530298
+    }
+  },
+  "volume_statistics": {
+    "min": 601300,
+    "max": 1543911000,
+    "mean": 38963312.61554153,
+    "zero_volume_days": 0
+  },
+  "return_statistics": {
+    "mean_daily_return": 0.0006095989941449637,
+    "volatility": 0.021498608256838178,
+    "min_return": -0.3511660252264417,
+    "max_return": 0.24369635894280006,
+    "skewness": -0.11180779418128935,
+    "kurtosis": 16.42819936318723
+  }
+}

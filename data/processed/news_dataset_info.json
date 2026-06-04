@@ -1,0 +1,10 @@
+{
+  "downloaded_dataset": "miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests",
+  "news_files": [
+    "/teamspace/studios/this_studio/financial_advisory_system/data/raw/news/raw_partner_headlines.csv",
+    "/teamspace/studios/this_studio/financial_advisory_system/data/raw/news/analyst_ratings_processed.csv",
+    "/teamspace/studios/this_studio/financial_advisory_system/data/raw/news/raw_analyst_ratings.csv"
+  ],
+  "data_directory": "/teamspace/studios/this_studio/financial_advisory_system/data/raw/news",
+  "analysis_date": "2026-03-10 12:14"
+}

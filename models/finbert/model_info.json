@@ -1,0 +1,9 @@
+{
+  "model_name": "ProsusAI/finbert",
+  "device": "cpu",
+  "max_length": 512,
+  "cache_dir": "/teamspace/studios/this_studio/financial_advisory_system/models/finbert",
+  "setup_time": "2025-12-23T05:52:03.441194",
+  "torch_version": "2.8.0+cu128",
+  "model_parameters": 109484547
+}
