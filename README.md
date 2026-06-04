@@ -145,8 +145,6 @@ python src/main.py
 
 ---
 
----
-
 ## Research Publication
 
 This project has been published as a research paper in the International Journal of Engineering Research and Science & Technology (IJERST).
@@ -154,16 +152,7 @@ This project has been published as a research paper in the International Journal
 ### Paper Details
 
 **Title:**  
-Real-Time Financial Advisory System: A GenAI-Driven Conversational and Explainable Framework
-
-**Authors:**  
-- Nallimilli Saranya Reddy
-- K. Siva Ganesh
-- K. Sravani
-- K. Jaya Ram
-- K. Komali
-
-**Journal:** International Journal of Engineering Research and Science & Technology (IJERST)
+Real-Time Financial Advisory System: A GenAI-Driven Conversational and Explainable Framework.
 
 **Volume:** 22  
 **Issue:** 1(2)  
@@ -172,8 +161,4 @@ Real-Time Financial Advisory System: A GenAI-Driven Conversational and Explainab
 
 **DOI:**  
 https://doi.org/10.62643/ijerst.2026.v22.n1(2).pp202-208
-
-### Publication Summary
-
-The research presents a GenAI-driven financial advisory platform that combines natural language processing, sentiment analysis, portfolio optimization, and explainable AI techniques to assist investors in making informed financial decisions. The system integrates LangGraph-based workflow orchestration, FinBERT sentiment analysis, PostgreSQL-based financial data management, and a Streamlit interface for conversational financial analytics. The proposed framework processes large-scale financial datasets and provides explainable investment insights, risk assessment, and portfolio recommendations through natural language interactions. :contentReference[oaicite:0]{index=0}
 
